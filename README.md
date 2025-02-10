@@ -1,13 +1,3 @@
-"# product-auto-categorizer" 
-
-ETL, PyTorch
-
-create venv
-
-create .env in /config
-
-pip install requirements
-
 # Overview 
 This project aims to automate product classification using PySpark for ETL, PostgreSQL for storage, and PyTorch for 
 AI-driven categorization.
