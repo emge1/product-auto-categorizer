@@ -4,3 +4,4 @@ pandas
 torch
 python-decouple==3.8
 pyspark
+pylint==3.3.4
