@@ -1,0 +1,8 @@
+etl:
+  batch_size: 10
+  table_name: "products_product"
+
+model:
+  embedding_model: "model"
+  epochs: 1
+  batch_size: 1
