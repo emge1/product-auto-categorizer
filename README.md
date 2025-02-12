@@ -58,3 +58,5 @@ PostgreSQL 17
 ## PostgreSQL JDBC Driver
 postgresql-42.7.5.jar
 
+## Datasets
+[Product Matching](https://huggingface.co/datasets/lakritidis/product-matching) - GPL 2.0 licence
