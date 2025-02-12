@@ -5,3 +5,4 @@ torch==2.6.0
 python-decouple==3.8
 pyspark==3.5.4
 pylint==3.3.4
+nltk==3.9.1
