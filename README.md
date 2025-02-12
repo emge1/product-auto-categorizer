@@ -10,6 +10,7 @@ AI-driven categorization.
 # Functionalities
 * Connection with PostgreSQL via PySpark
 * Pylint for static analysis of the code
+* Data preprocessing using NLTK
 
 # Project setup
 
@@ -40,13 +41,13 @@ pip install -r requirements.txt
 ```
 
 # Dependencies
-psycopg2==2.9.10
-sqlalchemy==2.0.38
-pandas==2.2.3
-torch==2.6.0
-python-decouple==3.8
-pyspark==3.5.4
-pylint==3.3.4
+* psycopg2==2.9.10
+* sqlalchemy==2.0.38
+* pandas==2.2.3
+* torch==2.6.0
+* python-decouple==3.8
+* pyspark==3.5.4
+* pylint==3.3.4
 
 ## Database
 PostgreSQL 17
