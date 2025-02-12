@@ -48,6 +48,7 @@ pip install -r requirements.txt
 * python-decouple==3.8
 * pyspark==3.5.4
 * pylint==3.3.4
+* pyyaml==6.0.2
 
 ## Database
 PostgreSQL 17
