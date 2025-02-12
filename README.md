@@ -49,6 +49,7 @@ pip install -r requirements.txt
 * pyspark==3.5.4
 * pylint==3.3.4
 * pyyaml==6.0.2
+* sentence-transformers==3.4.1
 
 ## Database
 PostgreSQL 17
