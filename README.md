@@ -50,9 +50,11 @@ pip install -r requirements.txt
 * pylint==3.3.4
 * pyyaml==6.0.2
 * sentence-transformers==3.4.1
+* datasets==3.2.0
 
 ## Database
 PostgreSQL 17
 
 ## PostgreSQL JDBC Driver
 postgresql-42.7.5.jar
+
